@@ -1,0 +1,13 @@
+body {
+    font-family: "Times New Roman", serif;
+}
+#title {
+    border: 1px none #000000;
+    border-bottom-style: solid;
+}
+a {
+    text-decoration: none;
+}
+p {
+    text-indent: 30px;
+}
